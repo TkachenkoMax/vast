@@ -32,7 +32,7 @@
               <MediaFile id="5246" delivery="progressive" type="video/mp4" bitrate="600" width="1920" height="1080" minBitrate="500" maxBitrate="700" scalable="1" maintainAspectRatio="1" codec="H.264">
                 <![CDATA[https://sigma-testing-mtkachenko.s3.us-east-2.amazonaws.com/tmp/dya4veo29adya4veo29a.mp4]]>
               </MediaFile>
-              <MediaFile id="5246" delivery="progressive" type="video/webm" bitrate="600" width="1920" height="1080" minBitrate="500" maxBitrate="700" scalable="1" maintainAspectRatio="1" codec="H.264">
+              <MediaFile id="5247" delivery="progressive" type="video/webm" bitrate="600" width="1920" height="1080" minBitrate="500" maxBitrate="700" scalable="1" maintainAspectRatio="1" codec="H.264">
                 <![CDATA[https://sigma-testing-mtkachenko.s3.us-east-2.amazonaws.com/tmp/delish-bumper.webm]]>
               </MediaFile>
             </MediaFiles>
