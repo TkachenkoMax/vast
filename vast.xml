@@ -27,7 +27,7 @@
               <Tracking event="complete">http://example.com/tracking/complete</Tracking>
               <Tracking event="progress" offset="00:00:02">http://example.com/tracking/progress-10</Tracking>
             </TrackingEvents>
-            <Duration>00:00:06</Duration>
+            <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile id="5246" delivery="progressive" type="video/mp4" bitrate="600" width="1920" height="1080" minBitrate="500" maxBitrate="700" scalable="1" maintainAspectRatio="1" codec="H.264">
                 <![CDATA[https://sigma-testing-mtkachenko.s3.us-east-2.amazonaws.com/tmp/dya4veo29adya4veo29a.mp4]]>
