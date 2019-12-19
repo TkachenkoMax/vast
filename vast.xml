@@ -3,7 +3,7 @@
     <InLine>
       <AdSystem version="4.0">hearst</AdSystem>
       <AdTitle>hearst</AdTitle>
-      <Impression>http://example.com/track/impression</Impression>
+      <Impression>https://audienceselect.hearst.com/</Impression>
       <Creatives>
         <Creative>
           <UniversalAdId idRegistry="unknown" idValue="unknown">123</UniversalAdId>
