@@ -38,16 +38,10 @@
         <Creative>
           <UniversalAdId idRegistry="unknown" idValue="unknown">123</UniversalAdId>
           <Linear>
-            <Duration>00:00:16</Duration>
+            <Duration>00:01:43</Duration>
             <MediaFiles>
                <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720">
-                  <![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
-                </MediaFile>
-                <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="854" height="480">
-                  <![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro-mid-resolution.mp4]]>
-                </MediaFile>
-                <MediaFile delivery="progressive" type="video/mp4" bitrate="600" width="640" height="360">
-                  <![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro-low-resolution.mp4]]>
+                  <![CDATA[https://da-dscg-usercontent.s3.amazonaws.com/video/Discogs+Introduction+(2).mp4]]>
                 </MediaFile>
             </MediaFiles>
             <VideoClicks>
