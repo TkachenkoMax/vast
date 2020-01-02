@@ -13,6 +13,9 @@
                <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720">
                   <![CDATA[https://da-dscg-usercontent.s3.amazonaws.com/video/Discogs+Introduction+(2).mp4]]>
                 </MediaFile>
+               <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="720" height="480">
+                 <![CDATA[https://da-dscg-usercontent.s3.amazonaws.com/video/Discogs+Introduction+(2).mp4]]>
+               </MediaFile>
             </MediaFiles>
             <VideoClicks>
               <ClickThrough id="site">
