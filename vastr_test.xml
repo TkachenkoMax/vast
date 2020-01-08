@@ -1,0 +1,17 @@
+<VAST version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.iab.com/VAST">
+  <Ad id="12345">
+    <InLine>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <MediaFiles>
+               <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720">
+                  <![CDATA[https://da-dscg-usercontent.s3.amazonaws.com/video/Discogs+Introduction+(2).mp4]]>
+                </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
