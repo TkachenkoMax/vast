@@ -6,7 +6,7 @@
           <Linear>
             <Duration>00:01:43</Duration>
             <MediaFiles>
-               <MediaFile type="video/mp4">
+               <MediaFile type="test">
                   <![CDATA[https://da-dscg-usercontent.s3.amazonaws.com/video/Discogs+Introduction+(2).mp4]]>
                 </MediaFile>
             </MediaFiles>
