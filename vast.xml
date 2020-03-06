@@ -7,7 +7,7 @@
       <Creatives>
         <Creative>
           <UniversalAdId idRegistry="unknown" idValue="unknown">123</UniversalAdId>
-          <Linear>
+          <Linear skipoffset="00:00:15">
             <Duration>00:01:15</Duration>
             <MediaFiles>
                <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720">
