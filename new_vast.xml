@@ -1,0 +1,38 @@
+<VAST version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.iab.com/VAST">
+  <Ad id="12345">
+    <InLine>
+      <AdSystem>hearst</AdSystem>
+      <AdTitle>Hearst</AdTitle>
+      <Impression><![CDATA[https://audienceselect.hearst.com/]]></Impression>
+      <Creatives>
+        <Creative>
+          <UniversalAdId idRegistry="unknown" idValue="unknown">123</UniversalAdId>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <MediaFiles>
+               <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720">
+                  <![CDATA[https://da-dscg-usercontent.s3.amazonaws.com/video/Discogs+Introduction+(2).mp4]]>
+                </MediaFile>
+               <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="720" height="480">
+                 <![CDATA[https://da-dscg-usercontent.s3.amazonaws.com/video/Discogs+Introduction+(2).mp4]]>
+               </MediaFile>
+            </MediaFiles>
+            <VideoClicks>
+              <ClickThrough id="site">
+                <![CDATA[https://audienceselect.hearst.com/]]>
+              </ClickThrough>
+            </VideoClicks>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://audienceselect.hearst.com/]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[https://audienceselect.hearst.com/]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[https://audienceselect.hearst.com/]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[https://audienceselect.hearst.com/]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://audienceselect.hearst.com/]]></Tracking>
+              <Tracking event="progress" offset="00:00:15"><![CDATA[https://audienceselect.hearst.com/]]></Tracking>
+            </TrackingEvents>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
