@@ -7,7 +7,7 @@
         <Creative>
           <UniversalAdId idRegistry="unknown" idValue="unknown">123</UniversalAdId>
           <Linear>
-            <Duration>00:00:15</Duration>
+            <Duration>00:00:45</Duration>
             <MediaFiles>
                <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="1920" height="1080">
                   <![CDATA[https://da-dscg-usercontent.s3.amazonaws.com/video/Discogs+Introduction+(2).mp4]]>
