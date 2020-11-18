@@ -1,0 +1,83 @@
+<VAST version="2.0">
+<Ad id="1kopj0">
+<InLine>
+<AdSystem>Innovid Ads</AdSystem>
+<AdTitle>
+<![CDATA[ PGPB0986000D ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1guaib&client_id=2239&video_id=621703&channel_id=2059409&publisher_id=1460&placement_tag_id=0&project_state=2&r=1605706415556&placement_hash=1kopj0&device_id=&action=init&ivc_exdata=dipn%3Ddeviceid%26deviceid%3DROKU_ADS_TRACKING_ID%26ivc_deviceid_raw%3DROKU_ADS_TRACKING_ID%26iv_geo_dma%3D%26iv_geo_country%3DUA%26iv_geo_city%3DKharkiv%26iv_geo_state%3D63%26iv_geo_zip%3D61028%26iv_geo_lat%3D49.982%26iv_geo_lon%3D36.2566 ]]>
+</Impression>
+<Creatives>
+<Creative id="1hf1ig">
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1guaib&client_id=2239&video_id=621703&channel_id=2059409&publisher_id=1460&placement_tag_id=0&project_state=2&r=1605706415556&placement_hash=1kopj0&device_id=&action=play&ivc_exdata=dipn%3Ddeviceid%26deviceid%3DROKU_ADS_TRACKING_ID%26ivc_deviceid_raw%3DROKU_ADS_TRACKING_ID%26iv_geo_dma%3D%26iv_geo_country%3DUA%26iv_geo_city%3DKharkiv%26iv_geo_state%3D63%26iv_geo_zip%3D61028%26iv_geo_lat%3D49.982%26iv_geo_lon%3D36.2566 ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://ad.doubleclick.net/ddm/trackimp/N9515.1844606ROKU.COM2/B24928149.287658288;dc_trk_aid=481346610;dc_trk_cid=141086074;ord=1605706415556;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=? ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnapi29032&am=52&ep=1&at=view&rt=banner&st=image&ca=cmp3491043&cr=621703&pc=2071852&ce=1460&cy=2&r=1605706415556 ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1guaib&client_id=2239&video_id=621703&channel_id=2059409&publisher_id=1460&placement_tag_id=0&project_state=2&r=1605706415556&placement_hash=1kopj0&device_id=&action=vpoint&event_id=percent&event_value=25&ivc_exdata=dipn%3Ddeviceid%26deviceid%3DROKU_ADS_TRACKING_ID%26ivc_deviceid_raw%3DROKU_ADS_TRACKING_ID%26iv_geo_dma%3D%26iv_geo_country%3DUA%26iv_geo_city%3DKharkiv%26iv_geo_state%3D63%26iv_geo_zip%3D61028%26iv_geo_lat%3D49.982%26iv_geo_lon%3D36.2566 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1guaib&client_id=2239&video_id=621703&channel_id=2059409&publisher_id=1460&placement_tag_id=0&project_state=2&r=1605706415556&placement_hash=1kopj0&device_id=&action=vpoint&event_id=percent&event_value=50&ivc_exdata=dipn%3Ddeviceid%26deviceid%3DROKU_ADS_TRACKING_ID%26ivc_deviceid_raw%3DROKU_ADS_TRACKING_ID%26iv_geo_dma%3D%26iv_geo_country%3DUA%26iv_geo_city%3DKharkiv%26iv_geo_state%3D63%26iv_geo_zip%3D61028%26iv_geo_lat%3D49.982%26iv_geo_lon%3D36.2566 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1guaib&client_id=2239&video_id=621703&channel_id=2059409&publisher_id=1460&placement_tag_id=0&project_state=2&r=1605706415556&placement_hash=1kopj0&device_id=&action=vpoint&event_id=percent&event_value=75&ivc_exdata=dipn%3Ddeviceid%26deviceid%3DROKU_ADS_TRACKING_ID%26ivc_deviceid_raw%3DROKU_ADS_TRACKING_ID%26iv_geo_dma%3D%26iv_geo_country%3DUA%26iv_geo_city%3DKharkiv%26iv_geo_state%3D63%26iv_geo_zip%3D61028%26iv_geo_lat%3D49.982%26iv_geo_lon%3D36.2566 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1guaib&client_id=2239&video_id=621703&channel_id=2059409&publisher_id=1460&placement_tag_id=0&project_state=2&r=1605706415556&placement_hash=1kopj0&device_id=&action=vpoint&event_id=percent&event_value=100&ivc_exdata=dipn%3Ddeviceid%26deviceid%3DROKU_ADS_TRACKING_ID%26ivc_deviceid_raw%3DROKU_ADS_TRACKING_ID%26iv_geo_dma%3D%26iv_geo_country%3DUA%26iv_geo_city%3DKharkiv%26iv_geo_state%3D63%26iv_geo_zip%3D61028%26iv_geo_lat%3D49.982%26iv_geo_lon%3D36.2566 ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://dts.innovid.com/clktru/action/vclk?project_hash=1guaib&client_id=2239&video_id=621703&channel_id=2059409&publisher_id=1460&placement_tag_id=0&project_state=2&r=1605706415556&placement_hash=1kopj0&device_id=&action=clktru&click=https%3A%2F%2Fpepto-bismol.com%2Fen-us ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ https://ad.doubleclick.net/ddm/trackclk/N9515.1844606ROKU.COM2/B24928149.287658288;dc_trk_aid=481346610;dc_trk_cid=141086074;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua= ]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="800">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/2_source_108317_439232.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="400">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/10_source_108317_439232.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="2000">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/11_source_108317_439232.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1280" height="720" type="video/webm" bitrate="1500">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/17_source_108317_439232.webm ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="20000">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/19_source_108317_439232.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="600">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/23_source_108317_439232.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="960" height="540" type="video/mp4" bitrate="1350">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/25_source_108317_439232.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="25000">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/49_source_108317_439232.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="25000">
+<![CDATA[ https://s-static.innovid.com/media/encoded/10_20/373767/53_source_108317_439232.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Error>
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1guaib&client_id=2239&video_id=621703&channel_id=2059409&publisher_id=1460&placement_tag_id=0&project_state=2&r=1605706415556&placement_hash=1kopj0&device_id=&action=error&event_id=vast_error&event_value=[ERRORCODE]&ivc_exdata=dipn%3Ddeviceid%26deviceid%3DROKU_ADS_TRACKING_ID%26ivc_deviceid_raw%3DROKU_ADS_TRACKING_ID%26iv_geo_dma%3D%26iv_geo_country%3DUA%26iv_geo_city%3DKharkiv%26iv_geo_state%3D63%26iv_geo_zip%3D61028%26iv_geo_lat%3D49.982%26iv_geo_lon%3D36.2566 ]]>
+</Error>
+</InLine>
+</Ad>
+</VAST>
